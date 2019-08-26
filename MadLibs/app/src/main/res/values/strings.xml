@@ -2,9 +2,9 @@
     <string name="app_name">MadLibs</string>
     <string name="message_greeting">Hello!</string>
     <string name="message_instruction">Pick Your Story:</string>
-    <string name="story_1">Romeo and Juliet</string>
-    <string name="story_2">My Pet Dragon</string>
-    <string name="story_3">Rock and Roll</string>
+    <string name="story_1">Rock and Roll</string>
+    <string name="story_2">Romeo and Juliet</string>
+    <string name="story_3">My Pet Dragon</string>
     <string name="title_activity_story_input1">StoryInput1</string>
     <string name="action_settings">Settings</string>
     <string name="adjective">Enter an Adjective</string>
@@ -16,4 +16,12 @@
     <string name="verb_ing">Enter a Verb Ending in \"ing\"</string>
     <string name="button_submit">Submit</string>
     <string name="message_error">You\'re Missing a Couple Words!!</string>
+    <string name="anotherStory">Try Another Story</string>
+    <string name="number">Enter a Number</string>
+    <string name="body_part">Enter a Body Part</string>
+    <string name="place">Enter a Place</string>
+    <string name="plural_body_part">Enter a Plural Body Part</string>
+    <string name="superlative">Enter a Superlative</string>
+    <string name="plural_animal">Enter a Plural Animal</string>
+    <string name="color">Enter a Color</string>
 </resources>

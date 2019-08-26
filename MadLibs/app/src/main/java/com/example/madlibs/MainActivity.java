@@ -39,14 +39,14 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
-    /*public void goToStory2(View view){
-        Intent intent = new Intent(this, StoryInput1.class);
+    public void goToStory2(View view){
+        Intent intent = new Intent(this, StoryInput2.class);
         startActivity(intent);
 
     }
     public void goToStory3(View view){
-        Intent intent = new Intent(this, StoryInput1.class);
+        Intent intent = new Intent(this, StoryInput3.class);
         startActivity(intent);
 
-    }*/
+    }
 }

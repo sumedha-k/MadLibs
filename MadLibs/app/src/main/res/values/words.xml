@@ -59,55 +59,55 @@
     </string-array>
 
     <string-array name="verbs">
-        <item>adds</item>
-        <item>allows</item>
-        <item>bakes</item>
-        <item>bangs</item>
-        <item>calls</item>
-        <item>chases</item>
-        <item>damages</item>
-        <item>drops</item>
-        <item>ends</item>
-        <item>escapes</item>
-        <item>fastens</item>
-        <item>fixes</item>
-        <item>gathers</item>
-        <item>grabs</item>
-        <item>hangs</item>
-        <item>hugs</item>
-        <item>imagines</item>
-        <item>itches</item>
-        <item>jogs</item>
-        <item>jumps</item>
-        <item>kicks</item>
-        <item>knits</item>
-        <item>lands</item>
-        <item>locks</item>
-        <item>marches</item>
-        <item>mixes</item>
-        <item>names</item>
-        <item>notices</item>
-        <item>obeys</item>
-        <item>opens</item>
-        <item>passes</item>
-        <item>promises</item>
-        <item>questions</item>
-        <item>reaches</item>
-        <item>rinses</item>
-        <item>scatters</item>
-        <item>stays</item>
-        <item>talks</item>
-        <item>turns</item>
-        <item>unties</item>
-        <item>uses</item>
-        <item>vanishes</item>
-        <item>visits</item>
-        <item>walks</item>
-        <item>works</item>
-        <item>yawns</item>
-        <item>yells</item>
-        <item>zips</item>
-        <item>zooms</item>
+        <item>add</item>
+        <item>allow</item>
+        <item>bake</item>
+        <item>bang</item>
+        <item>call</item>
+        <item>chase</item>
+        <item>damage</item>
+        <item>drop</item>
+        <item>end</item>
+        <item>escape</item>
+        <item>fasten</item>
+        <item>fix</item>
+        <item>gather</item>
+        <item>grab</item>
+        <item>hang</item>
+        <item>hug</item>
+        <item>imagine</item>
+        <item>itch</item>
+        <item>jog</item>
+        <item>jump</item>
+        <item>kick</item>
+        <item>knit</item>
+        <item>land</item>
+        <item>lock</item>
+        <item>march</item>
+        <item>mix</item>
+        <item>name</item>
+        <item>notice</item>
+        <item>obey</item>
+        <item>open</item>
+        <item>pass</item>
+        <item>promise</item>
+        <item>quarrel</item>
+        <item>reach</item>
+        <item>rinse</item>
+        <item>scatter</item>
+        <item>stay</item>
+        <item>talk</item>
+        <item>turn</item>
+        <item>untie</item>
+        <item>use</item>
+        <item>vanish</item>
+        <item>visit</item>
+        <item>walk</item>
+        <item>work</item>
+        <item>yawn</item>
+        <item>yell</item>
+        <item>zip</item>
+        <item>zoom</item>
     </string-array>
 
     <string-array name="nouns">
@@ -376,5 +376,336 @@
         <item>yelled</item>
         <item>zipped</item>
         <item>zoomed</item>
+    </string-array>
+
+    <string-array name="numbers">
+        <item>one</item>
+        <item>nine</item>
+        <item>seventy-four</item>
+        <item>couple million</item>
+        <item>negative three</item>
+        <item>zero</item>
+        <item>tenish</item>
+        <item>1,000,000,000</item>
+        <item>a billion</item>
+        <item>40 trillion</item>
+        <item>sixty-three</item>
+        <item>4000 + 30 + 2</item>
+        <item>3 thousand</item>
+        <item>four thousand</item>
+        <item>nine thousand</item>
+        <item>10 thousand</item>
+        <item>10000002</item>
+        <item>eighty-nine</item>
+        <item>forty</item>
+        <item>3 trillion</item>
+        <item>0.00</item>
+        <item>1/2</item>
+        <item>0.0000002</item>
+        <item>fifty-six</item>
+        <item>sixty-four</item>
+        <item>sixty-nine</item>
+        <item>forty-nine</item>
+        <item>8 or 9</item>
+        <item>five hundred</item>
+        <item>five thousand, five hundred, and fifty-five</item>
+        <item>twenty-three</item>
+        <item>fifteen</item>
+        <item>thirteen</item>
+        <item>nineteen</item>
+        <item>thirty-one</item>
+        <item>3.14156</item>
+        <item>60</item>
+        <item>ninety-four</item>
+        <item>eighty</item>
+        <item>nine hundred and one</item>
+        <item>seventy-five</item>
+        <item>1234</item>
+        <item>3 or 4 thousand</item>
+    </string-array>
+
+    <string-array name="places">
+        <item>my backyard</item>
+        <item>the room</item>
+        <item>Monica\'s apartment</item>
+        <item>Bangkok, Thailand</item>
+        <item>the Alps</item>
+        <item>the basement</item>
+        <item>China</item>
+        <item>science fair</item>
+        <item>California</item>
+        <item>Toronto</item>
+        <item>Macy\'s</item>
+        <item>under the staircase</item>
+        <item>Hogwarts</item>
+        <item>The West Village</item>
+        <item>the chapel</item>
+        <item>the prairie</item>
+        <item>Winchester</item>
+        <item>Scotland</item>
+        <item>the lagoon</item>
+        <item>Santa Monica</item>
+        <item>Uganda</item>
+        <item>Yemen</item>
+        <item>La Guardia</item>
+        <item>JFK</item>
+        <item>San Salvador</item>
+        <item>The Gulf Coast</item>
+        <item>Paris, Texas</item>
+        <item>Google Headquarters</item>
+        <item>Amazon(the rainforest)</item>
+        <item>Amazon(the company)</item>
+        <item>Philadelphia,PA 1778</item>
+        <item>a watermelon farm</item>
+        <item>my mother\'s attic</item>
+        <item>under your bed</item>
+        <item>5ft from of the porch</item>
+        <item>Batman\'s cave</item>
+        <item>S.T.A.R. Labs</item>
+        <item>a brave new world</item>
+        <item>my bachelor pad</item>
+        <item>the coat rack</item>
+        <item>a lake house</item>
+        <item>The Big Apple</item>
+        <item>the Toyota Camry</item>
+        <item>Manny\'s house</item>
+        <item>the washroom</item>
+        <item>South Africa</item>
+        <item>under a waterfall</item>
+        <item>Easter Island</item>
+        <item>Quantico</item>
+    </string-array>
+
+    <string-array name="body_parts">
+        <item>abdomen</item>
+        <item>Adam\'s apple</item>
+        <item>adrenal gland</item>
+        <item>appendix</item>
+        <item>arm</item>
+        <item>artery</item>
+        <item>back</item>
+        <item>belly button</item>
+        <item>big toe</item>
+        <item>bladder</item>
+        <item>brain</item>
+        <item>calf</item>
+        <item>cervical vertebrae</item>
+        <item>cheek</item>
+        <item>chin</item>
+        <item>collar bone</item>
+        <item>ear</item>
+        <item>eyebrow</item>
+        <item>eye</item>
+        <item>eyelid</item>
+        <item>face</item>
+        <item>feet</item>
+        <item>femur</item>
+        <item>fallopian tubes</item>
+        <item>finger</item>
+        <item>forehead</item>
+        <item>gums</item>
+        <item>hair</item>
+        <item>hand</item>
+        <item>head</item>
+        <item>heart</item>
+        <item>heel</item>
+        <item>index finger</item>
+        <item>iris</item>
+        <item>jaw</item>
+        <item>kidney</item>
+        <item>knee</item>
+        <item>leg</item>
+        <item>lip</item>
+        <item>liver</item>
+        <item>lungs</item>
+        <item>lumber vertebrae</item>
+        <item>mandible</item>
+        <item>muscle</item>
+        <item>mouth</item>
+        <item>molar</item>
+        <item>nose</item>
+        <item>pelvis</item>
+        <item>pinky</item>
+    </string-array>
+
+    <string-array name="plural_body_parts">
+        <item>abdomen</item>
+        <item>Adam\'s apples</item>
+        <item>adrenal glands</item>
+        <item>appendicies</item>
+        <item>arms</item>
+        <item>arteries</item>
+        <item>backs</item>
+        <item>belly buttons</item>
+        <item>big toes</item>
+        <item>bladders</item>
+        <item>brains</item>
+        <item>calves</item>
+        <item>cervical vertebrae</item>
+        <item>cheeks</item>
+        <item>chins</item>
+        <item>collar bones</item>
+        <item>ears</item>
+        <item>eyebrows</item>
+        <item>eyes</item>
+        <item>eyelids</item>
+        <item>faces</item>
+        <item>feet</item>
+        <item>femurs</item>
+        <item>fallopian tubes</item>
+        <item>fingers</item>
+        <item>foreheads</item>
+        <item>gums</item>
+        <item>hair</item>
+        <item>hands</item>
+        <item>heads</item>
+        <item>hearts</item>
+        <item>heels</item>
+        <item>index fingers</item>
+        <item>irises</item>
+        <item>jaws</item>
+        <item>kidneys</item>
+        <item>knees</item>
+        <item>legs</item>
+        <item>lips</item>
+        <item>livers</item>
+        <item>lungs</item>
+        <item>lumber vertebrae</item>
+        <item>mandibles</item>
+        <item>muscles</item>
+        <item>mouths</item>
+        <item>molars</item>
+        <item>noses</item>
+        <item>pelvises</item>
+        <item>pinkies</item>
+    </string-array>
+
+    <string-array name="plural_animals">
+        <item>aardvarks</item>
+        <item>alligators</item>
+        <item>alpacas</item>
+        <item>anteaters</item>
+        <item>antelopes</item>
+        <item>baboons</item>
+        <item>bison</item>
+        <item>cheetahs</item>
+        <item>cougars</item>
+        <item>cattle</item>
+        <item>coyotes</item>
+        <item>crocodiles</item>
+        <item>crustaceans</item>
+        <item>dart frogs</item>
+        <item>deer</item>
+        <item>elephants</item>
+        <item>elephant seal</item>
+        <item>elk</item>
+        <item>giraffes</item>
+        <item>goats</item>
+        <item>gophers</item>
+        <item>horses</item>
+        <item>howler monkeys</item>
+        <item>jackals</item>
+        <item>jackrabbits</item>
+        <item>jaguars</item>
+        <item>jellyfish</item>
+        <item>kangaroos</item>
+        <item>killer whales</item>
+        <item>mongooses</item>
+        <item>opossums</item>
+        <item>orangutans</item>
+        <item>orcas</item>
+        <item>otters</item>
+        <item>pumas</item>
+        <item>rabbits</item>
+        <item>raccoons</item>
+        <item>red foxes</item>
+        <item>red kangaroos</item>
+        <item>red pandas</item>
+        <item>Siberian tigers</item>
+        <item>squirrels</item>
+        <item>striped dolphins</item>
+        <item>tortoise</item>
+        <item>tree frogs</item>
+        <item>turtles</item>
+        <item>wallabies</item>
+        <item>walruses</item>
+        <item>warthogs</item>
+        <item>water buffaloes</item>
+        <item>weasels</item>
+        <item>wombats</item>
+        <item>woodchucks</item>
+        <item>yaks</item>
+        <item>yellow-bellied marmots</item>
+        <item>zebras</item>
+    </string-array>
+
+    <string-array name="colors">
+        <item>white</item>
+        <item>yellow</item>
+        <item>blue</item>
+        <item>red</item>
+        <item>green</item>
+        <item>black</item>
+        <item>brown</item>
+        <item>azure</item>
+        <item>ivory</item>
+        <item>teal</item>
+        <item>silver</item>
+        <item>purple</item>
+        <item>navy blue</item>
+        <item>pea green</item>
+        <item>gray</item>
+        <item>orange</item>
+        <item>maroon</item>
+        <item>charcoal</item>
+        <item>aquamarine</item>
+        <item>coral</item>
+        <item>fuchsia</item>
+        <item>wheat</item>
+        <item>lime</item>
+        <item>crimson</item>
+        <item>khaki</item>
+        <item>hot pink</item>
+        <item>magenta</item>
+        <item>plum</item>
+        <item>olive</item>
+        <item>cyan</item>
+    </string-array>
+
+    <string-array name="superlatives">
+        <item>angriest</item>
+        <item>worst</item>
+        <item>biggest</item>
+        <item>most boring</item>
+        <item>cheapest</item>
+        <item>cleverest</item>
+        <item>cutest</item>
+        <item>cleanest</item>
+        <item>most comfortable</item>
+        <item>dirtiest</item>
+        <item>most expensive</item>
+        <item>furthest</item>
+        <item>fastest</item>
+        <item>funniest</item>
+        <item>best</item>
+        <item>happiest</item>
+        <item>most hard-working</item>
+        <item>healthiest</item>
+        <item>highest</item>
+        <item>most interesting</item>
+        <item>least</item>
+        <item>longest</item>
+        <item>loudest</item>
+        <item>nicest</item>
+        <item>oldest</item>
+        <item>poorest</item>
+        <item>most popular</item>
+        <item>prettiest</item>
+        <item>richest</item>
+        <item>slowest</item>
+        <item>smallest</item>
+        <item>tallest</item>
+        <item>ugliest</item>
+        <item>youngest</item>
     </string-array>
 </resources>
