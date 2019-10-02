@@ -1,2 +1,2 @@
 # MadLibs
-##My First Mobile App##
+My First Mobile App
